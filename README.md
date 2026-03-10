@@ -47,4 +47,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/PriyanshiRaina07/Leetcode/tree/main/3015-count-the-number-of-houses-at-a-certain-distance-i/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/PriyanshiRaina07/Leetcode/tree/main/3015-count-the-number-of-houses-at-a-certain-distance-i/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/PriyanshiRaina07/Leetcode/tree/main/3015-count-the-number-of-houses-at-a-certain-distance-i/) | Medium |
 <!---LeetCode Topics End-->
