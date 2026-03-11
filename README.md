@@ -30,19 +30,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0834-sum-of-distances-in-tree](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+| [0968-binary-tree-cameras](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0834-sum-of-distances-in-tree](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+| [0968-binary-tree-cameras](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+| [0968-binary-tree-cameras](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
