@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0046-permutations](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/PriyanshiRaina07/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/PriyanshiRaina07/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/PriyanshiRaina07/Leetcode/tree/main/3015-count-the-number-of-houses-at-a-certain-distance-i/) | Medium |
 ## Design
 | Problem Name | Difficulty |
