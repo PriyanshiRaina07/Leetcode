@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0062-unique-paths/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Graph Theory
@@ -81,4 +83,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
