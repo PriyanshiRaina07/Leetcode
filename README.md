@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0046-permutations](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0307-range-sum-query-mutable](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0307-range-sum-query-mutable](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,4 +89,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0062-unique-paths/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 <!---LeetCode Topics End-->
