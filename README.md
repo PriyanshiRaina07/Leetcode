@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/PriyanshiRaina07/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/PriyanshiRaina07/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/PriyanshiRaina07/Leetcode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,8 +98,26 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/PriyanshiRaina07/Leetcode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/PriyanshiRaina07/Leetcode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/PriyanshiRaina07/Leetcode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/PriyanshiRaina07/Leetcode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/PriyanshiRaina07/Leetcode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/PriyanshiRaina07/Leetcode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 <!---LeetCode Topics End-->
