@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0046-permutations](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Combinatorics
