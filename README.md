@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0493-reverse-pairs](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -98,22 +99,26 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0493-reverse-pairs](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0493-reverse-pairs](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/PriyanshiRaina07/Leetcode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0493-reverse-pairs](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/PriyanshiRaina07/Leetcode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0493-reverse-pairs](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/PriyanshiRaina07/Leetcode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -131,8 +136,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0493-reverse-pairs](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0493-reverse-pairs](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
