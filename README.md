@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0046-permutations](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0046-permutations/) | Medium |
+| [0139-word-break](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0139-word-break](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Graph Theory
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0139-word-break](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Combinatorics
@@ -142,4 +145,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0139-word-break/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0139-word-break/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/PriyanshiRaina07/Leetcode/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
